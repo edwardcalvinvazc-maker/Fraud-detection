@@ -1,4 +1,4 @@
-# 🕵️‍♂️ The Fraud Detection Chronicles: Unmasking Anomalies
+# The Fraud Detection :  Anomalies
 
 Welcome to my journey into the depths of network security and fraud detection! In a digital world where malicious activities lurk in the shadows of everyday transactions, I set out on a quest to build a robust guardian. This repository is the story of how I tackled the challenge of identifying fraudulent behavior using machine learning.
 
